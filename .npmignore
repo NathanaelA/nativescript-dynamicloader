@@ -37,4 +37,5 @@ tslint.json
 karma.conf.js
 typings.json
 typedoc.json
+!dynamic.d.ts
 

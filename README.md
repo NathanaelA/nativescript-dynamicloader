@@ -14,10 +14,10 @@ I also do contract work; so if you have a module you want built for NativeScript
 
 ## Screen Shots Examples
 
-![Screens](docs/nativescript-dl0.gif =300x)
-![Continous](docs/nativescript-dl1.gif =300x)
-![Colors](docs/nativescript-dl2.gif =300x)
-![Tabs](docs/nativescript-dl3.gif =300x)
+<img src="docs/nativescript-dl0.gif" width="300"/>
+<img src="docs/nativescript-dl1.gif" width="300"/>
+<img src="docs/nativescript-dl2.gif" width="300"/>
+<img src="docs/nativescript-dl3.gif" width="300"/>
 
 
 
