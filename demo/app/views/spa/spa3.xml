@@ -1,0 +1,6 @@
+<StackLayout>
+    <Label text="We just wrote the code:"/>
+    <Label text="  element.dynamicLoad('~/views/spa/spa3');" class="title"/>
+    <Label text="and we dynamically loaded this file here."/>
+    <Label text=""/>
+</StackLayout>

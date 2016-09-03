@@ -1,0 +1,6 @@
+<StackLayout>
+<Label text="There is NO navigate() calls in this app!"/>
+<Label text="We are not building this programmatically!"/>
+<Label text="We are dynamically loading Declarative UI files!" textWrap="true"/>
+<Label text=""/>
+ </StackLayout>

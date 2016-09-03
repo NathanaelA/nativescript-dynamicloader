@@ -1,0 +1,8 @@
+<StackLayout class="primary" loaded="loaded">
+<ScrollView height="90%">
+    <StackLayout id="SPA">
+    <!-- Look Ma, No content here -->
+    </StackLayout>
+</ScrollView>
+<Button text="Load More..." tap="clicker"/>
+</StackLayout>

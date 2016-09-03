@@ -1,0 +1,24 @@
+{
+  "description": "NativeScript DynamicLoader",
+  "license": "Commercial",
+  "readme": "NativeScript DynamicLoader Docs",
+  "repository": "https://github.com/NathanaelA/nativescript-dynamicloader",
+  "nativescript": {
+    "id": "com.mastertechapps.dynamicLoader",
+    "tns-android": {
+      "version": "2.2.0"
+    }
+  },
+  "dependencies": {
+    "nativescript-dom": "latest",
+    "nativescript-dynamicloader": "file:..",
+    "nativescript-liveedit": "^2.2.0",
+    "tns-core-modules": "latest"
+  },
+  "devDependencies": {
+    "babel-traverse": "6.15.0",
+    "babel-types": "6.15.0",
+    "babylon": "6.9.1",
+    "lazy": "1.0.11"
+  }
+}

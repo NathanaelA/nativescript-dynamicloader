@@ -1,0 +1,10 @@
+<TabViewItem title="Tab1">
+    <TabViewItem.view>
+        <StackLayout>
+            <Label text="Hi I'm a new Tab"/>
+            <Label Text="I can have whatever you want in me..."/>
+            <Label text=""/>
+            <Image src="res://icon" stretch ="none" horizontalAlignment="center"/>
+        </StackLayout>
+    </TabViewItem.view>
+</TabViewItem>

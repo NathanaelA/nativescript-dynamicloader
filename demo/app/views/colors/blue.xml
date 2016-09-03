@@ -1,0 +1,5 @@
+<StackLayout class="color">
+<Label class="box blue" text="I'm blue"/>
+<Label class="box navy" text="I'm navy"/>
+<Label class="box cyan" text="I'm cyan"/>
+</StackLayout>

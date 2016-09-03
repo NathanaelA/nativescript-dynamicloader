@@ -1,0 +1,10 @@
+<StackLayout>
+    <Image src="res://icon" stretch ="none" horizontalAlignment="center"/>
+    <Label text="This is a Single Page App" class="title"/>
+    <Label text="All content is dynamically loaded"/>
+    <Label text="This example shows how you can keep attaching new content..." textWrap="true"/> `
+    <Label text=""/>
+    <Label text="Source code for app at:"/>
+    <Label text="  https://github.com/NathanaelA/DynamicLoader" class="title"/>
+    <Label text=""/>
+</StackLayout>

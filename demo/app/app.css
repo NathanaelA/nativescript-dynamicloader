@@ -1,0 +1,104 @@
+﻿Page {
+    background-color: #dcdcdc;
+}
+
+#sv {
+    margin: 5;
+    background-color: lightblue;
+    border-width: 1;
+    border-color: #000000;
+}
+
+.animatingContent {
+    height: 1000;
+}
+
+#content {
+    padding: 5;
+    height: 480;
+}
+
+.primary Button {
+    width: 80%;
+}
+
+.primary .tabButton {
+    width: 49%;
+}
+
+.copyright {
+    color: black;
+    font-size: 10;
+    text-align: center;
+}
+.tools {
+    margin-top: 1;
+    color: blue;
+    font-size: 10;
+}
+
+.notices {
+    margin: 4;
+    padding-right: 2;
+    padding-left: 2;
+}
+
+.appProtect {
+    margin-top: 10;
+    color: blue;
+    font-size: 10;
+    text-align: center;
+}
+
+.title {
+    color: black;
+    font-weight: bold;
+}
+
+.blue {
+  background-color: blue;
+    color: white;
+}
+
+.cyan {
+    background-color: cyan;
+}
+
+.navy {
+    background-color: navy;
+    color: white;
+}
+
+.green {
+    background-color: green;
+}
+
+.seagreen {
+    background-color: seagreen;
+}
+
+.lawngreen {
+    background-color: lawngreen;
+}
+
+.red {
+    background-color: red;
+}
+
+.orange {
+    background-color: orange;
+}
+
+.pink {
+    background-color: deeppink;
+}
+
+.box {
+    margin: 10;
+    padding-top: 40;
+    text-align: center;
+    width: 100;
+    height: 100;
+
+    horizontalalignment: center;
+}

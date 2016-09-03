@@ -1,0 +1,7 @@
+<TabViewItem title="Tab2">
+    <TabViewItem.view>
+        <StackLayout loaded="loaded">
+            <Label text="We can even dynamicLoad inside a dynamicLoad"/>
+        </StackLayout>
+    </TabViewItem.view>
+</TabViewItem>

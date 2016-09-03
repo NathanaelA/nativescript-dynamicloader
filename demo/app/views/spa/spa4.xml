@@ -1,0 +1,5 @@
+<StackLayout>
+<Label text="Click the -Next- or -Prior- buttons on the bottom"/>
+<Label text="for different examples..."/>
+<Label text=""/>
+</StackLayout>

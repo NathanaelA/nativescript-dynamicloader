@@ -1,0 +1,8 @@
+<TabViewItem title="Tab3">
+    <TabViewItem.view>
+        <StackLayout>
+            <Label text="And a third example tab"/>
+            <Label Text="I can have whatever you want in me..."/>
+        </StackLayout>
+    </TabViewItem.view>
+</TabViewItem>

@@ -1,0 +1,5 @@
+<StackLayout class="primary" loaded="loaded">
+<Label text="Color Example: (Dynamic load and replace)" class="title"/>
+<StackLayout id="colors"/>
+<Button text="Next Colors" tap="clicker"/>
+</StackLayout>

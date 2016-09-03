@@ -1,0 +1,7 @@
+<StackLayout class="primary" loaded="loaded">
+    <TabView id="tabView" height="430"/>
+    <StackLayout orientation="horizontal">
+    <Button text="Load a tab" tap="clicker" class="tabButton"/>
+    <Button text="Remove a tab" tap="remover" class="tabButton"/>
+    </StackLayout>
+</StackLayout>

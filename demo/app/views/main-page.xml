@@ -1,0 +1,29 @@
+<Page xmlns="http://schemas.nativescript.org/tns.xsd" navigatingTo="onNavigatingTo">
+  <ActionBar title="DynamicLoader Example">
+    <ActionBar.actionItems>
+      <ActionItem text="More" tap="tools"/>
+    </ActionBar.actionItems>
+  </ActionBar>
+  <GridLayout rows="*,1,auto" columns="auto,*,auto">
+    <ScrollView row="0" colSpan="3" id="sv">
+      <StackLayout id="content">
+
+      <!-- Look Ma, No Fixed content -->
+
+      </StackLayout>
+    </ScrollView>
+    <StackLayout row="1" colSpan="3" height="1" horizontalAlignment="stretch" class="HorizontalBorder" />
+    <Button row="2" tap="prior" text="Prior" class="left" />
+    <Button row="2" col="2" tap="next" text="Next" class="right" />
+    <StackLayout row="2" col="1" class="notices">
+
+      <Label text="(c)2016, Master Technology." class="copyright"/>
+
+      <!-- This line may seem silly, since the demo is Open Source    -->
+      <!-- but the APK / IPK demo's on AppProtection.net are this app -->
+      <Label text="Protected by AppProtection.net" tap="appProtect" class="appProtect"/>
+
+    </StackLayout>
+
+    </GridLayout>
+</Page>

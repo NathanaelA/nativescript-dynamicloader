@@ -1,0 +1,30 @@
+{
+  "name": "nativescript-dynamicloader-demo",
+  "main": "app.js",
+  "version": "1.0.0",
+  "author": {
+    "name": "Nathanael Anderson",
+    "email": "Nathan@master-technology.com"
+  },
+  "description": "Nativescript hello-world project template",
+  "license": "MIT",
+  "keywords": [
+    "demo",
+    "dynamic",
+    "nativescript",
+    "{N}",
+    "dynamic loader"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/NathanaelA/nativescript-dynamicloader.git"
+  },
+  "bugs": {
+    "url": "https://github.com/NathanaelA/nativescript-dynamicloader"
+  },
+  "homepage": "https://github.com/NathanaelA/nativescript-dynamicloader",
+  "android": {
+    "v8Flags": "--expose_gc"
+  },
+  "readme": "README.md"
+}
